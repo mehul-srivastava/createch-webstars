@@ -2,11 +2,11 @@
 Please find all our creations, documents, pitch deck, github repository etc [on this link](https://drive.google.com/drive/folders/1kmVxl5_4_1lDbCu8iKSXbB1fcBNSFAiR?usp=sharing)
 <br>
 
-To view the hosted web-app as a user go [this link](https://jstseguru.in/createch-webstars/)
+To view the hosted web-app AS A USER go [this link](https://jstseguru.in/createch-webstars/)
 - You can signup here using your own credentials
 <br>
 
-To view the hosted web-app as an admin go [this link](https://jstseguru.in/createch-webstars/admin/)
+To view the hosted web-app AS AN ADMIN go [this link](https://jstseguru.in/createch-webstars/admin/)
 - Email: superadmin@cors.tech
 - Password: corstech
 <br>
