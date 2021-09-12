@@ -1,13 +1,16 @@
 # CorsTech
 Please find all our creations, documents, pitch deck, github repository etc [on this link](https://drive.google.com/drive/folders/1kmVxl5_4_1lDbCu8iKSXbB1fcBNSFAiR?usp=sharing)
 <br>
+
 To view the hosted web-app as a user go [this link](https://jstseguru.in/createch-webstars/)
 - You can signup here using your own credentials
 <br>
+
 To view the hosted web-app as an admin go [this link](https://jstseguru.in/createch-webstars/admin/)
 - Email: superadmin@cors.tech
 - Password: corstech
 <br>
+
 # Challenges we ran into
 Challenges we ran into was mainly on the backend side. Main challeneges were integrating the OTP service. At first we tried to integrate Twilio SDK into our application but then at the final stage we realised that Twilio in its free version only allows the client to send OTP to the number registered during the account signup which means no one else will recieve the SMS other than my mobile number. The next step, we tried to include TextLocal API but ran into a problem with some legal doucmentation (DLT SMS) in which it started asking for DLT invoice and GST info. After a comprehensive research we found an OTP service called Fast2SMS which had an extremely simple API to use and at last we were successfull.
 
